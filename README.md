@@ -1,7 +1,6 @@
 # django-snacks
 
 ## Class-26
-<br>
 
 ---
 
